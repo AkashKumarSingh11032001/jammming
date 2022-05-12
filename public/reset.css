@@ -41,7 +41,9 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
-/* IMPORT FONT's */
+
+/* <--- IMPORT FONT's ---> */
+
 /* devanagari */
 @font-face {
     font-family: 'Poppins';
